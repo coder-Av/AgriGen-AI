@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+vector_db/*
+!vector_db/.gitkeep
+reports/*.pdf
+data/crop_images/*
+!data/crop_images/.gitkeep
