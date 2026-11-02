@@ -1,0 +1,12 @@
+[
+  {"id": "Q1", "question": "What are the symptoms of rice blast in paddy?", "expected_keywords": ["spindle", "neck", "grey"], "crop": "paddy"},
+  {"id": "Q2", "question": "How can I manage early blight in tomato?", "expected_keywords": ["rotation", "lower leaves", "air flow"], "crop": "tomato"},
+  {"id": "Q3", "question": "What are the signs of pink bollworm in cotton?", "expected_keywords": ["rosette", "boll", "pheromone"], "crop": "cotton"},
+  {"id": "Q4", "question": "Why are my chilli leaves curling and plants stunted?", "expected_keywords": ["thrips", "whitefl", "virus"], "crop": "chilli"},
+  {"id": "Q5", "question": "How do I recognise nitrogen deficiency?", "expected_keywords": ["older", "lower leaves", "yellow"], "crop": "general"},
+  {"id": "Q6", "question": "What is khaira disease in paddy?", "expected_keywords": ["zinc", "rusty"], "crop": "paddy"},
+  {"id": "Q7", "question": "When should pesticides be used according to IPM?", "expected_keywords": ["last", "threshold"], "crop": "general"},
+  {"id": "Q8", "question": "How does drip irrigation help farmers?", "expected_keywords": ["root zone", "save water"], "crop": "general"},
+  {"id": "Q9", "question": "How can groundnut leaf spot be reduced?", "expected_keywords": ["rotation", "sowing", "volunteer"], "crop": "groundnut"},
+  {"id": "Q10", "question": "How often should I scout my field for pests?", "expected_keywords": ["week", "underside"], "crop": "general"}
+]
